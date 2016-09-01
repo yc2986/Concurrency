@@ -1,2 +1,2 @@
 # Concurrency
-Concurrency in action code practise
+C++ Concurrency in action code practise
